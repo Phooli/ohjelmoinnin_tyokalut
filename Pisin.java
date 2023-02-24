@@ -3,7 +3,7 @@ import java.util.Arrays;
 class Pisin {
     public static void main(String[] args) {
         if (args.length == 0) {
-            System.out.println("Ei parametreja");
+            System.out.println("Ei parametreja.");
         }
         else {
             int pituus = 0;
